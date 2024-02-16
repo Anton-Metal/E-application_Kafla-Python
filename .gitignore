@@ -4,3 +4,4 @@ order_producer.py
 main.py
 consumer.py
 p.txt
+env/
